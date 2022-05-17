@@ -13,7 +13,9 @@ Ici, on rentre dans la technique. Tous les capteurs Low-Cost imaginés et co-con
 Aucune connaissance en informatique ? Pas de souçis ! 
 Ou acheter le matériel ? Comment on fait ? Pas de panique, laissez-vous guider ! 
 
-## Liste des projets ci-dessous
+## Liste des projets
+Chacun des projets a été synthétisé en un dossier (ou "Repository"), disponible ci-dessous. Dans chaque repository, vous avez accès au tutoriel, à la liste du matériel à acheter (ainsi que des liens pour les acheter sur internet). Le code est également disponible en libre accès.
+
 1. CoupDePouce : Un projet d'allumage de bouton à distance pour actionner des moteurs via l'envoie d'un SMS
 2. HubIS : Pilotez votre irrigation en installant des capteurs d'humidité dans les parcelles. Detecter l'irrigation gravitaire et actionnez les martelières à distance
 3. L'AgroCam : Une caméra connectée aux champs pour suivre l'évolution de vos cultures
