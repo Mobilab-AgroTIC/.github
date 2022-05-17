@@ -7,13 +7,14 @@ Bienvenue sur le GitHub du [mobilab AgroTIC](https://www.agrotic.org/atelier-mob
 <p align="center">
   <img width="480" alt="mobilab7" src="https://user-images.githubusercontent.com/24956276/141987816-b33c67f5-46b1-4a83-bb5a-c93de5d9871a.png">
 </p>
-Sur cette page, on rentre dans la technique. Tous les capteurs Low-Cost imaginés et co-conçus par des agriculteurs sont réalisables via les tutoriels de cette page. Envie d'automatiser votre pompe d'irrigation pour la déclancher distance ? Besoin de connaitre l'humidité des sols en temps réel pour piloter son irrigation ? 
+
+Ici, on rentre dans la technique. Tous les capteurs Low-Cost imaginés et co-conçus par des agriculteurs sont réalisables via les tutoriels de cette page. Envie d'automatiser votre pompe d'irrigation pour la déclancher distance ? Besoin de connaitre l'humidité des sols en temps réel pour piloter son irrigation ? Un capteur de température pour suivre les fermentations ? De densité ? D'effervescence ? Un suivi GPS de mon troupeau ? Tout ceci est réalisable !
 
 Aucune connaissance en informatique ? Pas de souçis ! 
 Ou acheter le matériel ? Comment on fait ? Pas de panique, laissez-vous guider ! 
 
 ## Liste des projets ci-dessous
-1. L'AgroCam : Une caméra connectée aux champs pour suivre l'évolution de vos cultures
+1. CoupDePouce : Un projet d'allumage de bouton à distance pour actionner des moteurs via l'envoie d'un SMS
 2. HubIS : Pilotez votre irrigation en installant des capteurs d'humidité dans les parcelles. Detecter l'irrigation gravitaire et actionnez les martelières à distance
-3. Le Végémètre : Un capteur de végétation (NDVI) pour suivre l'éxpression photosynthétique de vos cultures
-4. CoupDePouce : Un projet d'allumage de bouton à distance pour actionner des moteurs via l'envoie d'un SMS
+3. L'AgroCam : Une caméra connectée aux champs pour suivre l'évolution de vos cultures
+4. Le Végémètre : Un capteur de végétation (NDVI) pour suivre l'éxpression photosynthétique de vos cultures
