@@ -20,4 +20,4 @@ Chacun des projets a été synthétisé en un dossier (ou "Repository"), disponi
 2. **[HubIS](https://github.com/Mobilab-AgroTIC/HubIS)** : Pilotez votre irrigation en installant des capteurs d'humidité dans les parcelles et en automatisant les martelières
 3. **L'AgroCam** : Une caméra connectée aux champs pour suivre l'évolution de vos parcelles
 4. **Le Végémètre** : Un capteur de végétation (NDVI) pour suivre l'éxpression photosynthétique de vos cultures
-5. **[Distech](https://github.com/Mobilab-AgroTIC/distech)** : Un capteur de distance pour mesurer la hauteur de végétation, ou d'un niveau d'eau, etc
+5. **[Distech]** : Un capteur de distance pour mesurer la hauteur de végétation, ou d'un niveau d'eau, etc
